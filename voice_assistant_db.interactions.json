@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "67b6283eabb9aa011da745b0"
+  },
+  "user_text": "hello everyone",
+  "ai_response": "Hello there! Welcome to the group. I am not sure what you are here for, but I hope you find what you are looking for. If you need anything, please don't hesitate to ask."
+},
+{
+  "_id": {
+    "$oid": "67b62854abb9aa011da745b1"
+  },
+  "user_text": "code of factorial",
+  "ai_response": "**Python**\n\n```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)\n```\n\n**C++**\n\n```c++\nint factorial(int n) {\n  if (n == 0) {\n    return 1;\n  } else {\n    return n * factorial(n-1);\n  }\n}\n```\n\n**Java**\n\n```java\npublic static int factorial(int n) {\n  if (n == 0) {\n    return 1;\n  } else {\n    return n * factorial(n-1);\n  }\n}\n```\n\n**C#**\n\n```c#\npublic static int Factorial(int n) {\n  if (n == 0) {\n    return 1;\n  } else {\n    return n * Factorial(n-1);\n  }\n}\n```\n\n**JavaScript**\n\n```javascript\nfunction factorial(n) {\n  if (n == 0) {\n    return 1;\n  } else {\n    return n * factorial(n-1);\n  }\n}\n```"
+},
+{
+  "_id": {
+    "$oid": "67b62885abb9aa011da745b2"
+  },
+  "user_text": "hello jivani",
+  "ai_response": "Hello there! I am not Jivani. I am Gemini, a multimodal AI language model developed by Google. May I help you with something else?"
+},
+{
+  "_id": {
+    "$oid": "67b628ababb9aa011da745b3"
+  },
+  "user_text": "please give me the best book",
+  "ai_response": "**Best Books of All Time**\n\n* **The Great Gatsby** by F. Scott Fitzgerald: A classic American novel that explores themes of love, loss, and the American Dream.\n* **To Kill a Mockingbird** by Harper Lee: A Pulitzer Prize-winning novel that tackles racism, prejudice, and the complexities of human nature.\n* **One Hundred Years of Solitude** by Gabriel García Márquez: A magical realist masterpiece that chronicles the multi-generational history of the Buendía family.\n* **Pride and Prejudice** by Jane Austen: A timeless romance novel that explores the societal expectations and social conventions of the Regency era.\n* **War and Peace** by Leo Tolstoy: An epic novel that delves into the complexities of war, history, and human existence.\n* **1984** by George Orwell: A dystopian novel that explores the dangers of totalitarianism and the limits of human freedom.\n* **The Catcher in the Rye** by J.D. Salinger: A coming-of-age novel that captures the angst and complexities of adolescence.\n* **The Lord of the Rings** by J.R.R. Tolkien: A fantasy epic that has captivated generations of readers with its intricate world-building and timeless themes.\n* **Anna Karenina** by Leo Tolstoy: Another epic novel that explores the destructive power of passion and the complexities of marital relationships.\n* **The Iliad** by Homer: An ancient Greek epic poem that tells the story of the Trojan War and the fate of the legendary hero Achilles.\n\n**Additional Recommendations:**\n\n* **Don Quixote** by Miguel de Cervantes: A satirical novel that follows the misadventures of an idealistic knight-errant.\n* **Wuthering Heights** by Emily Brontë: A gothic romance novel that explores the destructive power of passion and revenge.\n* **The Color Purple** by Alice Walker: A Pulitzer Prize-winning novel that tells the story of a young African American woman in rural Georgia.\n* **Beloved** by Toni Morrison: A National Book Award-winning novel that explores the horrors of slavery and its lasting legacy.\n* **The Handmaid's Tale** by Margaret Atwood: A dystopian novel that imagines a future United States where women are subjected to reproductive slavery."
+},
+{
+  "_id": {
+    "$oid": "67b629ef1dbacf8a94f257f7"
+  },
+  "user_text": "hello",
+  "ai_response": "Hello! How can I help you today?"
+}]
